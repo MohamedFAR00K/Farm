@@ -1,1 +1,1 @@
-# Agro-Farm-with-Ecommerce-HTML-CSS-JS-PHP-Bootstrap-Ajax-
+FERTILIZER AND PESTICIDE MANAGEMENT PHP MySQL
